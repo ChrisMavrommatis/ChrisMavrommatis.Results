@@ -8,9 +8,9 @@
 		<Title>ChrisMavrommatis.Results</Title>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Authors>Chris Mavrommatis</Authors>
-		<PackageProjectUrl>https://github.com/ChrisMavrommatis/Results</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/ChrisMavrommatis/Results</RepositoryUrl>
-		<Version>2.0.2</Version>
+		<PackageProjectUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.Results</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.Results</RepositoryUrl>
+		<Version>2.0.3</Version>
 		<PackageIcon>package-icon.png</PackageIcon>
 		<AssemblyName>ChrisMavrommatis.Results</AssemblyName>
 		<PackageReadmeFile>README.md</PackageReadmeFile>

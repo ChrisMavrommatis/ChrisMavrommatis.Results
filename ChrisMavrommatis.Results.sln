@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # 17
 VisualStudioVersion = 17.11.35111.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Results", "src\Results\Results.csproj", "{6F0D7C22-D830-4AAA-9FAA-31F2DC2F5E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMavrommatis.Results", "src\ChrisMavrommatis.Results\ChrisMavrommatis.Results.csproj", "{6F0D7C22-D830-4AAA-9FAA-31F2DC2F5E8F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{80A42A6F-41A9-49E6-B8EE-D6780514A68E}"
 EndProject

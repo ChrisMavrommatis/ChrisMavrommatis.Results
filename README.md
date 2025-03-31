@@ -1,4 +1,4 @@
-# Results
+# ChrisMavrommatis.Results
 
 `ChrisMavrommatis.Results` is a .NET library designed to provide utility types for handling results and union types in a clean and expressive manner.
 
